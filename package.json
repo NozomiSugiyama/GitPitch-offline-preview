@@ -1,0 +1,15 @@
+{
+  "name": "GitPitch-offline-preview",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://githu.com/NozomiSugiyama/GitPitch-offline-preview",
+  "author": "NozomiSugiyama",
+  "license": "MIT",
+  "scripts": {
+    "live-server": "live-server"
+  },
+  "dependencies": {
+    "live-server": "^1.2.0",
+    "puppeteer": "^1.6.0"
+  }
+}
